@@ -28,4 +28,5 @@ button {
   margin: 0;
   padding: 2px;
   border-radius: 3px;
+  display: inline-block;
 }
